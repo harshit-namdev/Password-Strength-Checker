@@ -18,7 +18,7 @@ A Python-based tool that checks the strength of a password based on length and c
    ```
 2. Navigate to the project directory:
    ```bash
-   cd PasswordStrengthChecker
+   cd Password-Strength-Checker
    ```
 
 3. Make sure you have **Python 3.x** installed. You can check your version by running:
@@ -52,12 +52,6 @@ The script analyzes the following criteria to determine password strength:
 - **Overall Score**: Combines the checks to classify the password as "Weak," "Moderate," or "Strong."
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
-
+Contributions are welcome!
 
 ---
